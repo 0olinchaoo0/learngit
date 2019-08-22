@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free softwaredistributed under the GPL.
           hello git!
-Creaing a new branch is quick
+Creaing a new branch is quick & simple
